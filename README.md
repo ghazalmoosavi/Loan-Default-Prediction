@@ -27,10 +27,7 @@ The final model is a calibrated LightGBM classifier evaluated on a held-out test
 - [Installation](#installation)
 - [How to Run the Project](#how-to-run-the-project)
 - [Interpretation of Predictions](#interpretation-of-predictions)
-- [Limitations](#limitations)
-- [Future Improvements](#future-improvements)
-- [Disclaimer](#disclaimer)
-- [Author](#author)
+
 
 ---
 
